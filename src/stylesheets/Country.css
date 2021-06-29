@@ -1,0 +1,11 @@
+.country-info{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.back-button{
+	margin-top: 20px;
+	padding: 5px;
+}

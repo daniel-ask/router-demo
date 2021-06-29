@@ -1,0 +1,21 @@
+nav{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	background-color: slategray;
+	color: aliceblue;
+	height: 5vh;
+}
+
+a{
+	color: inherit;
+}
+
+.home-active{
+	font-size: 2em;
+}
+
+.about-active{
+	background-color: black;
+	border-bottom: 2px white solid;
+}
